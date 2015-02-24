@@ -1,0 +1,11 @@
+{
+  "name": "slick",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A dark and comfy theme",
+  "repository": "https://github.com/SerenadeX/slick",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
